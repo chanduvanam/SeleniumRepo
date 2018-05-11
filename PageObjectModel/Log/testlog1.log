@@ -1,0 +1,231 @@
+2016-06-07 10:01:32,270 [main] INFO Logging.Log - gFunc_CheckElementExistence : Enter email/mobile is displayed
+2016-06-07 10:01:32,346 [main] INFO Logging.Log - gFunc_CheckElementExistence : Enter email/mobile is Enabled
+2016-06-07 10:01:34,715 [main] INFO Logging.Log - gFunc_CheckElementExistence : Enter email/mobile is displayed
+2016-06-07 10:01:34,819 [main] INFO Logging.Log - gFunc_CheckElementExistence : Enter email/mobile is Enabled
+2016-06-07 10:01:37,115 [main] INFO Logging.Log - gFunc_CheckElementExistence : Enter password is displayed
+2016-06-07 10:01:37,182 [main] INFO Logging.Log - gFunc_CheckElementExistence : Enter password is Enabled
+2016-06-07 10:01:39,461 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2016-06-07 10:01:39,546 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2016-06-07 10:02:04,614 [main] INFO Logging.Log - Login :Login successful
+2016-06-07 10:02:04,615 [main] INFO Logging.Log - Login Method passed
+2016-06-07 10:02:06,817 [main] INFO Logging.Log - gFunc_CheckElementExistence : So, what are you wishing for today? is displayed
+2016-06-07 10:02:06,856 [main] INFO Logging.Log - gFunc_CheckElementExistence : So, what are you wishing for today? is Enabled
+2016-06-07 10:02:09,093 [main] INFO Logging.Log - gFunc_CheckElementExistence : So, what are you wishing for today? is displayed
+2016-06-07 10:02:09,147 [main] INFO Logging.Log - gFunc_CheckElementExistence : So, what are you wishing for today? is Enabled
+2016-06-07 10:02:09,764 [main] INFO Logging.Log - gFunc_PerformObjectAction :- ValueiphoneEntered in [[FirefoxDriver: firefox on WINDOWS (50f871cb-18e4-49c2-9b00-a268b667b5d8)] -> class name: LM6RPg]Successfully.
+2016-06-07 10:02:24,932 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is displayed
+2016-06-07 10:02:25,375 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is Enabled
+2016-06-07 10:02:35,963 [main] INFO Logging.Log - Account link exist
+2016-06-07 10:02:39,050 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is displayed
+2016-06-07 10:02:39,614 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is Enabled
+2016-06-07 10:02:45,893 [main] INFO Logging.Log - gFunc_PerformObjectAction :- Clicked on [[FirefoxDriver: firefox on WINDOWS (50f871cb-18e4-49c2-9b00-a268b667b5d8)] -> xpath: //a[contains(text(),'Log')]]Successfully.
+2016-06-07 10:02:45,895 [main] INFO Logging.Log - bFunc_SelectLinkFromDropDown :clicked on Logout
+2016-06-07 10:02:45,966 [main] INFO Logging.Log - Navigated to  Home
+2018-05-11 22:23:06,229 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-11 22:23:06,457 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-11 22:23:07,036 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-11 22:23:07,122 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-11 22:23:07,549 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-11 22:23:07,729 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-11 22:23:08,237 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is displayed
+2018-05-11 22:23:08,440 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is Enabled
+2018-05-11 22:27:24,615 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-11 22:27:24,755 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-11 22:27:25,368 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-11 22:27:25,461 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-11 22:27:25,878 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-11 22:27:26,050 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-11 22:27:26,496 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is displayed
+2018-05-11 22:27:26,624 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is Enabled
+2018-05-11 22:27:32,394 [main] INFO Logging.Log - Login :Login successful
+2018-05-11 22:28:23,051 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is displayed
+2018-05-11 22:28:23,223 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is Enabled
+2018-05-11 22:28:23,457 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is displayed
+2018-05-11 22:28:23,567 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is Enabled
+2018-05-11 22:28:49,512 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is displayed
+2018-05-11 22:28:49,891 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is Enabled
+2018-05-11 22:29:00,214 [main] INFO Logging.Log - Account link exist
+2018-05-11 22:29:00,571 [main] ERROR Logging.Log - gFunc_PerformObjectAction :-Element Not foundProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Log')]'
+2018-05-11 22:29:00,572 [main] INFO Logging.Log - bFunc_SelectLinkFromDropDown :clicked on Logout
+2018-05-11 22:34:54,766 [main] INFO Logging.Log - Account link exist
+2018-05-11 22:34:55,569 [main] ERROR Logging.Log - gFunc_PerformObjectAction :-Element Not foundProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Log')]'
+2018-05-11 22:34:55,570 [main] INFO Logging.Log - bFunc_SelectLinkFromDropDown :clicked on Logout
+2018-05-11 22:37:25,581 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-11 22:37:25,726 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-11 22:37:26,327 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-11 22:37:26,421 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-11 22:37:26,791 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-11 22:37:26,911 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-11 22:37:27,712 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is displayed
+2018-05-11 22:37:27,829 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is Enabled
+2018-05-11 22:37:33,645 [main] INFO Logging.Log - Login :Login successful
+2018-05-11 22:38:24,743 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is displayed
+2018-05-11 22:38:24,868 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is Enabled
+2018-05-11 22:38:25,113 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is displayed
+2018-05-11 22:38:25,213 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is Enabled
+2018-05-11 22:38:46,079 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is displayed
+2018-05-11 22:38:46,186 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is Enabled
+2018-05-11 22:38:56,439 [main] INFO Logging.Log - Account link exist
+2018-05-11 22:38:56,720 [main] ERROR Logging.Log - gFunc_PerformObjectAction :-Element Not foundProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Log')]'
+2018-05-11 22:38:56,720 [main] INFO Logging.Log - bFunc_SelectLinkFromDropDown :clicked on Logout
+2018-05-11 22:45:10,260 [main] INFO Logging.Log - Account link exist
+2018-05-11 22:45:12,548 [main] INFO Logging.Log - bFunc_SelectLinkFromDropDown :clicked on Logout
+2018-05-11 22:46:08,944 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-11 22:46:09,085 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-11 22:46:09,617 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-11 22:46:09,704 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-11 22:46:10,004 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-11 22:46:10,235 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-11 22:46:10,677 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is displayed
+2018-05-11 22:46:10,818 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is Enabled
+2018-05-11 22:46:16,470 [main] INFO Logging.Log - Login :Login successful
+2018-05-11 22:47:07,608 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is displayed
+2018-05-11 22:47:07,733 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is Enabled
+2018-05-11 22:47:07,952 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is displayed
+2018-05-11 22:47:08,065 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is Enabled
+2018-05-11 22:47:28,918 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is displayed
+2018-05-11 22:47:29,024 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is Enabled
+2018-05-11 22:47:39,465 [main] INFO Logging.Log - Account link exist
+2018-05-11 22:47:39,639 [main] ERROR Logging.Log - gFunc_PerformObjectAction :-Element Not foundProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Log')]'
+2018-05-11 22:47:39,640 [main] INFO Logging.Log - bFunc_SelectLinkFromDropDown :clicked on Logout
+2018-05-11 22:49:22,731 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-11 22:49:22,872 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-11 22:49:23,458 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-11 22:49:23,539 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-11 22:49:23,939 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-11 22:49:24,080 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-11 22:49:24,510 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is displayed
+2018-05-11 22:49:24,635 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is Enabled
+2018-05-11 22:49:33,633 [main] INFO Logging.Log - Login :Login successful
+2018-05-11 22:53:48,387 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is displayed
+2018-05-11 22:53:48,496 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is Enabled
+2018-05-11 22:53:48,917 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is displayed
+2018-05-11 22:53:49,073 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is Enabled
+2018-05-11 22:54:09,935 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is displayed
+2018-05-11 22:54:10,083 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is Enabled
+2018-05-11 22:54:20,589 [main] INFO Logging.Log - Account link exist
+2018-05-11 22:54:20,850 [main] ERROR Logging.Log - gFunc_PerformObjectAction :-Element Not foundProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Log')]'
+2018-05-11 22:54:20,852 [main] INFO Logging.Log - bFunc_SelectLinkFromDropDown :clicked on Logout
+2018-05-11 22:55:23,992 [main] INFO Logging.Log - Account link exist
+2018-05-11 22:55:32,235 [main] INFO Logging.Log - bFunc_SelectLinkFromDropDown :clicked on Logout
+2018-05-11 22:56:47,843 [main] INFO Logging.Log - Account link exist
+2018-05-11 22:56:48,016 [main] ERROR Logging.Log - gFunc_PerformObjectAction :-Element Not foundProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Log')]'
+2018-05-11 22:56:48,016 [main] INFO Logging.Log - bFunc_SelectLinkFromDropDown :clicked on Logout
+2018-05-11 23:00:36,204 [main] INFO Logging.Log - Account link exist
+2018-05-11 23:01:05,493 [main] INFO Logging.Log - bFunc_SelectLinkFromDropDown :clicked on Logout
+2018-05-11 23:02:50,135 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-11 23:02:50,272 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-11 23:02:50,788 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-11 23:02:50,873 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-11 23:02:51,173 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-11 23:02:51,343 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-11 23:02:51,710 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is displayed
+2018-05-11 23:02:51,835 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is Enabled
+2018-05-11 23:03:22,449 [main] INFO Logging.Log - Account link exist
+2018-05-11 23:03:22,732 [main] ERROR Logging.Log - gFunc_PerformObjectAction :-Element Not foundProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Log')]'
+2018-05-11 23:03:22,733 [main] INFO Logging.Log - bFunc_SelectLinkFromDropDown :clicked on Logout
+2018-05-11 23:05:34,321 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-11 23:05:34,440 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-11 23:05:35,446 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-11 23:05:35,571 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-11 23:05:35,922 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-11 23:05:36,074 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-11 23:05:36,506 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is displayed
+2018-05-11 23:05:36,631 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is Enabled
+2018-05-11 23:07:31,475 [main] INFO Logging.Log - Login :Login successful
+2018-05-11 23:08:02,818 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is displayed
+2018-05-11 23:08:02,928 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is Enabled
+2018-05-11 23:08:13,226 [main] INFO Logging.Log - Account link exist
+2018-05-11 23:08:13,438 [main] ERROR Logging.Log - gFunc_PerformObjectAction :-Element Not foundProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Log')]'
+2018-05-11 23:08:13,439 [main] INFO Logging.Log - bFunc_SelectLinkFromDropDown :clicked on Logout
+2018-05-11 23:10:02,852 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-11 23:10:02,960 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-11 23:10:03,595 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-11 23:10:03,708 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-11 23:10:04,057 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-11 23:10:04,225 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-11 23:10:04,694 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is displayed
+2018-05-11 23:10:04,828 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is Enabled
+2018-05-11 23:10:12,829 [main] INFO Logging.Log - Login :Login successful
+2018-05-11 23:10:43,502 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is displayed
+2018-05-11 23:10:43,616 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is Enabled
+2018-05-11 23:10:53,778 [main] INFO Logging.Log - Account link exist
+2018-05-11 23:10:53,941 [main] ERROR Logging.Log - gFunc_PerformObjectAction :-Element Not foundProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Log')]'
+2018-05-11 23:10:53,941 [main] INFO Logging.Log - bFunc_SelectLinkFromDropDown :clicked on Logout
+2018-05-12 00:00:10,915 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-12 00:00:11,011 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-12 00:00:11,312 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-12 00:00:11,372 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-12 00:00:11,572 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-12 00:00:11,644 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-12 00:00:11,952 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is displayed
+2018-05-12 00:00:12,039 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is Enabled
+2018-05-12 00:00:33,855 [main] INFO Logging.Log - Login :Login successful
+2018-05-12 00:05:57,769 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-12 00:05:57,910 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-12 00:05:58,536 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-12 00:05:58,623 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-12 00:05:58,984 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-12 00:05:59,156 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-12 00:05:59,645 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is displayed
+2018-05-12 00:05:59,778 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is Enabled
+2018-05-12 00:06:08,708 [main] INFO Logging.Log - Login :Login successful
+2018-05-12 00:06:39,615 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is displayed
+2018-05-12 00:06:39,759 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is Enabled
+2018-05-12 00:06:49,943 [main] INFO Logging.Log - Account link exist
+2018-05-12 00:06:50,147 [main] ERROR Logging.Log - gFunc_PerformObjectAction :-Element Not foundProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Log')]'
+2018-05-12 00:06:50,147 [main] INFO Logging.Log - bFunc_SelectLinkFromDropDown :clicked on Logout
+2018-05-12 00:09:57,167 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-12 00:09:57,336 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-12 00:09:57,979 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-12 00:09:58,071 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-12 00:09:58,367 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-12 00:09:58,529 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-12 00:09:58,966 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is displayed
+2018-05-12 00:09:59,091 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is Enabled
+2018-05-12 00:10:37,040 [main] INFO Logging.Log - Login :Login successful
+2018-05-12 00:11:07,775 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is displayed
+2018-05-12 00:11:08,053 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is Enabled
+2018-05-12 00:11:18,263 [main] INFO Logging.Log - Account link exist
+2018-05-12 00:11:18,453 [main] ERROR Logging.Log - gFunc_PerformObjectAction :-Element Not foundProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Log')]'
+2018-05-12 00:11:18,453 [main] INFO Logging.Log - bFunc_SelectLinkFromDropDown :clicked on Logout
+2018-05-12 00:13:41,244 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-12 00:13:41,385 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-12 00:13:42,016 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-12 00:13:42,102 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-12 00:13:42,476 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-12 00:13:42,648 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-12 00:13:43,087 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is displayed
+2018-05-12 00:13:43,212 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is Enabled
+2018-05-12 00:14:09,101 [main] INFO Logging.Log - Login :Login successful
+2018-05-12 00:14:39,823 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is displayed
+2018-05-12 00:14:39,933 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is Enabled
+2018-05-12 00:14:50,147 [main] INFO Logging.Log - Account link exist
+2018-05-12 00:14:50,320 [main] ERROR Logging.Log - gFunc_PerformObjectAction :-Element Not foundProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Log')]'
+2018-05-12 00:14:50,320 [main] INFO Logging.Log - bFunc_SelectLinkFromDropDown :clicked on Logout
+2018-05-12 00:28:28,939 [main] INFO Logging.Log - gFunc_CheckElementExistence : Common.CommonUtils.gFunc_CheckElementExistence(CommonUtils.java:452) is displayed
+2018-05-12 00:28:29,080 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-12 00:28:29,702 [main] INFO Logging.Log - gFunc_CheckElementExistence : Common.CommonUtils.gFunc_CheckElementExistence(CommonUtils.java:452) is displayed
+2018-05-12 00:28:29,818 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-12 00:28:30,089 [main] INFO Logging.Log - gFunc_CheckElementExistence : Common.CommonUtils.gFunc_CheckElementExistence(CommonUtils.java:452) is displayed
+2018-05-12 00:28:30,209 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-12 00:28:30,640 [main] INFO Logging.Log - gFunc_CheckElementExistence : Common.CommonUtils.gFunc_CheckElementExistence(CommonUtils.java:452) is displayed
+2018-05-12 00:28:30,781 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is Enabled
+2018-05-12 00:31:57,402 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-12 00:31:57,519 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-12 00:31:58,106 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-12 00:31:58,220 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-12 00:31:58,606 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is displayed
+2018-05-12 00:31:58,782 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-12 00:31:59,206 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is displayed
+2018-05-12 00:31:59,317 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is Enabled
+2018-05-12 00:33:03,049 [main] INFO Logging.Log - Login :Login successful
+2018-05-12 00:35:35,305 [main] INFO Logging.Log - gFunc_CheckElementExistence : getTxtUsername is displayed
+2018-05-12 00:35:35,453 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-12 00:35:36,064 [main] INFO Logging.Log - gFunc_CheckElementExistence : getTxtUsername is displayed
+2018-05-12 00:35:36,182 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-12 00:35:36,461 [main] INFO Logging.Log - gFunc_CheckElementExistence : getTxtPassword is displayed
+2018-05-12 00:35:36,585 [main] INFO Logging.Log - gFunc_CheckElementExistence :  is Enabled
+2018-05-12 00:35:36,993 [main] INFO Logging.Log - gFunc_CheckElementExistence : getBtnlogin is displayed
+2018-05-12 00:35:37,160 [main] INFO Logging.Log - gFunc_CheckElementExistence : null is Enabled
+2018-05-12 00:35:43,463 [main] INFO Logging.Log - Login :Login successful
